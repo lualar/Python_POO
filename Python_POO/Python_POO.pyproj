@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>f2a8683c-a672-4aa1-91ac-c7a08f3c949c</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Queue_POO.py</StartupFile>
+    <StartupFile>MobilePhone.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,8 +21,47 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="cartesian.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Exception_Tree_printout.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Fibonacci Yield.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Fibonaccy Class.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Kennels Dogs.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MobilePhone.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="PE2 - Module 3 test  Ex1.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Pizza_Exception.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Power_of_2.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Queue_POO.py" />
+    <Compile Include="sandbox.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Stack_POO.py" />
+    <Compile Include="timer.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Triangle.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="weeker.py">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
