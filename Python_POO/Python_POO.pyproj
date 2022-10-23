@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>f2a8683c-a672-4aa1-91ac-c7a08f3c949c</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>MobilePhone.py</StartupFile>
+    <StartupFile>SpecialMethods.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -24,6 +24,9 @@
     <Compile Include="cartesian.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Elevator.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Exception_Tree_printout.py">
       <SubType>Code</SubType>
     </Compile>
@@ -39,6 +42,9 @@
     <Compile Include="MobilePhone.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="ApplePackaging.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="PE2 - Module 3 test  Ex1.py">
       <SubType>Code</SubType>
     </Compile>
@@ -50,6 +56,9 @@
     </Compile>
     <Compile Include="Queue_POO.py" />
     <Compile Include="sandbox.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="SpecialMethods.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Stack_POO.py" />
