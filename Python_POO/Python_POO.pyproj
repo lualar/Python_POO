@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>f2a8683c-a672-4aa1-91ac-c7a08f3c949c</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>SpecialMethods.py</StartupFile>
+    <StartupFile>Decorator stacking.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,6 +22,12 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="cartesian.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Decorator stacking.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Decorators_Arguments.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Elevator.py">
