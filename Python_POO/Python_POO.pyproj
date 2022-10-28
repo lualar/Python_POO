@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>f2a8683c-a672-4aa1-91ac-c7a08f3c949c</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Decorator stacking.py</StartupFile>
+    <StartupFile>auto_POO.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,7 +21,19 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Abstract Classes.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Account_POO.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="auto_POO.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="cartesian.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Class Methods.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Decorator stacking.py">
@@ -69,6 +81,9 @@
     </Compile>
     <Compile Include="Stack_POO.py" />
     <Compile Include="timer.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Timestamp with decorators.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Triangle.py">
